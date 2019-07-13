@@ -26,10 +26,8 @@ Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。
 
 ### Takuya Ueda ([@tenntenn](https://twitter.com/tenntenn))
 
-Takuya Ueda is a Go engineer for Mercari, Inc.
-He is one of organizer of Go Conference in Japan.
-He works for the growth of the Go community in Japan.
-He also loves the Go Gopher and drawing Gopher illustrations.
+Takuya Ueda is a Go engineer at Mercari, Inc.
+He is also a Go conference organizer in Japan and devoted to helping the Go community there grow. His other interests include Go Gopher and drawing Gopher illustrations.
 
 * Twitter: https://twitter.com/tenntenn
 * Qiita: https://qiita.com/tenntenn
